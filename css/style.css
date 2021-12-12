@@ -351,3 +351,17 @@ footer.footer-area .social a:hover > i{
     text-decoration: none;
     color: inherit;
 }
+
+.downloadResume{
+    background-color: #22577E;
+    border: none;
+    padding: 10px;
+    color: white;
+    width: 45%;
+    font: normal bold 49px var(--roboto);
+    font-size: 18px;
+    font-style: italic;
+    letter-spacing: 2px;
+    font-weight: 500;
+    border-radius: 10px;
+}
